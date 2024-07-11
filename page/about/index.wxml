@@ -1,0 +1,3 @@
+<view class="ob">
+   <image src="resources/wxDraw.png" mode="aspectFit" style="width:100%;position:absolute;top:100px;"></image>
+</view>
